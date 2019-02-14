@@ -1,0 +1,20 @@
+import arcade
+
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+
+def draw_circle(x, y):
+    x = 300; y = 500; radius = 50
+    arcade.draw_circle_filled(x, y, radius, arcade.color.BLACK)
+
+def main():
+    arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "Tekenen met functies")
+    arcade.set_background_color(arcade.color.RED)
+    arcade.start_render()
+    arcade.draw_text("My Game", 200, 300, arcade.color.BLACK, 30)
+    draw_circle(50,500)
+    arcade.finish_render()
+    arcade.run()
+
+if __name__ == "__main__":
+    main()

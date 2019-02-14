@@ -1,0 +1,13 @@
+Dingen te programmeren:
+
+Loop dat het level herhaalt met veranderingen
+
+speler die kan springen
+
+systeem om afstand bij te houden
+
+Puntensysteem
+
+obstakels die bewegen
+
+vijanden (als t kan)

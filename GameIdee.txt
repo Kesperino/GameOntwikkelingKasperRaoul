@@ -1,0 +1,9 @@
+Platform game
+
+Level beweegt langs speler
+
+Speler moet door obstakels heen lopen 
+
+niet dood gaan
+
+per zoveel afstand krijg je een punt
